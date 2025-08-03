@@ -1,2 +1,3 @@
 # MBlinow.github.io
-Personal page
+Personal page built using Jekyll
+https://github.com/jekyll/jekyll
