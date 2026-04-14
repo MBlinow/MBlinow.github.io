@@ -26,9 +26,12 @@ linkedin_username: MBlinow
 github_username:  MBlinow
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
