@@ -2,7 +2,7 @@
 layout: single
 title: "Lilly!"
 date: 2026-04-13 20:00:00 -0400
-categories: welcome
+categories: cats
 tags: []
 author_profile: true
 ---
