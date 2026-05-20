@@ -1,0 +1,27 @@
+---
+layout: single
+title: "The cat babies!"
+date: 2026-04-13 20:00:00 -0400
+categories: cats
+tags: []
+author_profile: true
+---
+Our babies
+
+Currently taking care of my three cat babies.
+
+Mochi: My wife's son and first love.  He's always trying to sleep in someone's lap and loves going for walks.
+
+![Mochi cuddling](/assets/images/Mochi-cuddling.jpg)
+
+The two sisters:
+Poem: frequently known as Popo
+She's the life of the party and often runs around playing with her toys throughout the day.
+
+![Popo](/assets/images/Popo-destroying-things.jpg)
+
+Lilly: The black queen.  She loves to cuddle but not too long, we had no idea she would be so fluffy when we adopted her and her sister as kittens.
+
+![A photo of Lilly](/assets/images/Lilly-Napping.jpg)
+
+![The happy family](/assets/images/Peace.jpg)
